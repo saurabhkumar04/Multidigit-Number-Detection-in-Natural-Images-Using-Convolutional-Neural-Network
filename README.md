@@ -24,6 +24,6 @@ project:
     author:
         - Kumar, Saurabh  
 
-    url: https://github.com/saurabhkumar04/Deflategate-Analysis/blob/master/sentimentanalysis.py
+    url: https://github.com/saurabhkumar04/Multidigit-Number-Detection-in-Natural-Images-Using-Convolutional-Neural-Network/blob/master/final_code_multi_digit_detection.ipynb
     type: project
     chapter: Computer Vision
